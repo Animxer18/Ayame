@@ -1,5 +1,5 @@
-export const CONSUMET_URL = "https://api.consumet.org";
-export const ENIME_URL = "https://api.enime.moe/";
+export const CONSUMET_URL = "https://animxer-api-bids.vercel.app";
+export const ENIME_URL = "https://animxer-api-bids.vercel.app/";
 export const CORS_PROXY = "https://cors.consumet.stream/";
 export const PAGE = 1;
 export const GOGO_PROVIDER = "gogoanime";
